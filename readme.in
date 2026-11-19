@@ -1,1 +1,60 @@
 
+# Khan Technical Taleem
+
+**Afghanistan Telecom Packages App**
+
+## About
+Khan Technical Taleem is an Android application project designed to help users in Afghanistan find and explore mobile network packages easily.
+
+## Founder
+Keftan Khan
+
+## Country
+Afghanistan
+
+## Supported Languages
+- English
+- Pashto
+
+## Supported Mobile Networks
+- Roshan
+- Afghan Wireless (AWCC)
+- Etisalat Afghanistan
+- ATOMA
+- Salaam
+
+## Main Features
+- Internet packages
+- Voice and call packages
+- SMS packages
+- Social media packages
+- Night packages
+- Special offers
+- Package prices in AFN
+- Package validity and activation codes
+- Search and filters
+- Copy USSD activation codes
+- Offline access to saved package information
+- Automatic online package updates
+- Pashto and English language support
+
+## Admin Panel
+A secure admin panel is planned to manage mobile networks, packages, prices, activation codes, validity, and special offers.
+
+## Technology
+- Flutter
+- Firebase
+- Offline local database
+
+## YouTube Channel
+Khan Technical Taleem
+
+https://youtube.com/@khantechnicaltaleemkeftankhan
+
+## Contact
+0747081568
+
+## Project Status
+Project planning and development in progress.
+
+**Note:** Package prices and activation codes must be verified from official mobile network sources before publishing.
